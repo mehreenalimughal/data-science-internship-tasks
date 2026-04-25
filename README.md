@@ -130,4 +130,4 @@ These tasks helped in developing:
 ---
 
 # 👩‍💻 Author
-**Mehreen Ali**
+**Mehreen Ali Mughal**
