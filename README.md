@@ -130,5 +130,5 @@ These tasks helped in developing:
 ---
 
 # 👩‍💻 Author
-**Mehreen Ali Mughal**
+**Mehreen Ali Mughal,**
 **DHC-8620**
